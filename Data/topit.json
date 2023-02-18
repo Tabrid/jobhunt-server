@@ -1,0 +1,48 @@
+[
+    {
+      "_id": "1",
+      "picture": "https://i.ibb.co/SnNvrsk/26-260683-microsoft-company-logo-hd-png-download.png",
+      "name": "Microsoft",
+      "website": "www.microsoft.com",
+      "address": "Redmond, Washington, United States"
+    },
+    {
+      "_id": "2",
+      "picture": "https://i.ibb.co/LpX9XTB/1200px-Hewlett-Packard-svg.png",
+      "name": "Hewlett Packard Enterprise (HP)",
+      "website": "www.hpe.com",
+      "address": "Spring, Texas, United States"
+    },
+    {
+      "_id": "3",
+      "picture": "https://i.ibb.co/rxhQ0m7/Acc-Logo-Black-Purple-RGB-tek.png",
+      "name": "Accenture",
+      "website": "www.accenture.com",
+      "address": "Dublin, Ireland"
+    },
+    {
+      "_id": "4",
+      "picture": "https://i.ibb.co/0swVr0m/ti-logo.png",
+      "name": "Tiger IT Bangladesh Limited",
+      "email": " info@tigerit.com",
+      "phone": "+88 02 8826739",
+      "address": "House 21, Road 28, Block-K, Banani Model Town Dhaka, 1213"
+      
+    },
+    {
+      "_id": "5",
+      "picture": "https://i.ibb.co/ydNF5d4/DS-logo.png",
+      "name": "Datasoft Systems BD ltd",
+      "email": "info@datasoft-bd.com",
+      "phone": "880-2-58151538",
+      "address": "Rupayan Shelford (20th Floor), 23/6, Mirpur Road, Shyamoli, Dhaka-1207,"
+    },
+    {
+      "_id": "6",
+      "picture": "https://i.ibb.co/GsXqTSb/download.png",
+      "name": "Magnito Digital Limited",
+      "email": "info@magnitodigital.com",
+      "phone": "+88 02 55045454",
+      "address": "7th Floor | Road-137 House-7 | Gulshan-1"
+    }
+  ]
